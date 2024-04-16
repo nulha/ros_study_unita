@@ -1,4 +1,4 @@
 # **ros_study_unita**
 
 
-04/09 dont_toucl_wall.py (turtlesim)
+04/09 dont_touch_wall.py (turtlesim)
